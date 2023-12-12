@@ -1,6 +1,6 @@
-name: 'The name of your action here'
-description: 'Provide a description here'
-author: 'Your name or organization here'
+name: 'Startup github action'
+description: 'it include the linter, tester'
+author: 'jakekpengtoronto'
 
 # Define your inputs here.
 inputs:
